@@ -75,7 +75,7 @@
 
   <xsl:template match="xhtml:div[xhtml:h1]">
     <xsl:param name="title">
-      <xsl:if test="not(xhtml:ol|xhtml:ul|xhtml:blockquote|xhtml:dl|xhtml:div)"> title</xsl:if>
+      <xsl:if test="not(xhtml:ol|xhtml:ul|xhtml:blockquote|xhtml:dl)"> title</xsl:if>
     </xsl:param>
     <xsl:param name="imgbig">
       <xsl:if test="count(.//xhtml:img) = 1"> imgbig</xsl:if>
