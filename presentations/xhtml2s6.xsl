@@ -59,10 +59,10 @@
 
         <ol class="xoxo presentation">
           <li class="slide title">
-            <h1>
+            <h1 class="title">
               <xsl:value-of select="$title"/>
             </h1>
-            <h2>
+            <h2 class="author">
               <xsl:value-of select="$author"/>
             </h2>
           </li>
