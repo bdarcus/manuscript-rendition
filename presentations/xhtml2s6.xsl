@@ -10,12 +10,15 @@
     <xsl:param name="title">
       <xsl:value-of select="/xhtml:html/xhtml:head/xhtml:title"/>
     </xsl:param>
+    <xsl:param name="author">
+      <xsl:value-of select="/xhtml:html/xhtml:head/xhtml:meta[@name='author']/@content"/>
+    </xsl:param>
     <html>
       <head>
         <title>
           <xsl:value-of select="$title"/>
         </title>
-        <meta name="author" content="Bruce D'Arcus"/>
+        <meta name="author" content="{$author}"/>
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
 
         <!-- configuration parameters -->
@@ -23,25 +26,25 @@
 
         <!-- style sheet links -->
         <!-- theme stylesheet -->
-        <link rel="stylesheet" href="{$uri-base}/s6/ui/slate/slides.css" type="text/css"
+        <link rel="stylesheet" href="{$uri-base}/ui/slate/slides.css" type="text/css"
           media="projection" id="slideProj"/>
 
         <!-- default stylesheets for outline and printing -->
-        <link rel="stylesheet" href="{$uri-base}/s6/ui/default/outline.css" type="text/css"
+        <link rel="stylesheet" href="{$uri-base}/ui/default/outline.css" type="text/css"
           media="screen" id="outlineStyle"/>
-        <link rel="stylesheet" href="{$uri-base}/s6/ui/default/print.css" type="text/css"
+        <link rel="stylesheet" href="{$uri-base}/ui/default/print.css" type="text/css"
           media="print" id="slidePrint"/>
 
         <!-- S6 JS -->
         <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js">&#160;</script>
 
-        <script src="{$uri-base}/s6/js/slides.js" type="text/javascript">&#160;</script>
+        <script src="{$uri-base}/js/slides.js" type="text/javascript">&#160;</script>
 
       </head>
       <body>
         <div class="layout">
           <div class="background">
-            <object data="{$uri-base}/s6/ui/slate/background.svg" width="100%" height="100%"/>
+            <object data="{$uri-base}/ui/slate/background.svg" width="100%" height="100%"/>
           </div>
           <div id="controls">&#160;</div>
 
@@ -59,6 +62,9 @@
             <h1>
               <xsl:value-of select="$title"/>
             </h1>
+            <h2>
+              <xsl:value-of select="$author"/>
+            </h2>
           </li>
           <xsl:apply-templates select="//xhtml:div[xhtml:h1]"/>
         </ol>
