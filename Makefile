@@ -1,7 +1,10 @@
-html:
-	pandoc -s -c screen.css -o html/rendition.html 0*.mdml
+FILES = 0*.mdml
+PANDOC = pandoc -s 
+CSS =-c screen.css
+OUTFN = rendition
 
-odf:
-	pandoc -s -t odt -o html/rendition.odt 0*.mdml
+html: ${FILES} 
+	${PANDOC} ${CSS} -o html/${OUTFN}.html ${FILES}
 
-all: odf html 
+pdf: ${FILES}
+	${PANDOC} -t latex -o html/${OUTFN}.tex ${FILES}
