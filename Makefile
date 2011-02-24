@@ -1,10 +1,10 @@
-FILES = 0*.mdml
+FILES = *.mdml
 PANDOC = pandoc -s 
-CSS =-c screen.css
+CSS =screen.css
 OUTFN = rendition
 
-html: ${FILES} 
-	${PANDOC} ${CSS} -o html/${OUTFN}.html ${FILES}
+html: ${FILES} ${CSS} Makefile 
+	${PANDOC} -c ${CSS} -o html/${OUTFN}.html ${FILES}
 
 pdf: ${FILES}
 	${PANDOC} -t latex -o html/${OUTFN}.tex ${FILES}
