@@ -8,3 +8,7 @@ html: ${FILES}
 
 pdf: ${FILES}
 	${PANDOC} -t latex -o html/${OUTFN}.tex ${FILES}
+	cd html
+	pdfltex rendition.tex
+	cd ..
+
