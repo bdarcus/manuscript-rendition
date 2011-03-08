@@ -170,9 +170,12 @@ to extract intelligence. To do this, they subject detainees to
 extreme isolation so as to deprive them of any sense of normalcy
 (Mayer, 2007). In turn, and related, the other policy outcome of
 this perspective is that the practices of statecraft involved in
-anti-terrorism must be wherever possible hidden from view. 
+anti-terrorism must be wherever possible hidden from view.[^6]
 
-** cite new WP article **
+[^6]: Dana Priest and William Arkin (2010) have recently documented the
+extensive network of security infrastructure built up across the
+United States in the wake of the events of 2001, often in mundane,
+everyday places like suburban office parks.
 
 ## Territorial Constraints
 
@@ -230,7 +233,7 @@ involve more informal transfers of people and things.
 
 In both legal and practical precedent, extraordinary rendition has its
 origins before 9/11. Beginning in the late-1980s, United States law
-enforcement faced new challenges (Herbert, 1997). These challenges
+enforcement faced new challenges (Herbert, 1997).[^9] These challenges
 all centered on the increasingly extra-territorial and transnational
 character of crime. The “War on Drugs” was perhaps the first of these
 struggles, involving producers, distributors and consumers tied
@@ -238,7 +241,17 @@ together across a variety of domestic and foreign territories; some
 within United States jurisdiction, and many not. In order to fight
 this war, agencies like the FBI and the DEA increasingly dealt with
 suspects and informants who circulated in spaces beyond United States
-jurisdiction.
+territorial jurisdiction.
+
+[^9]: Note, however, that extraordinary rendition is not a particular
+   innovation of United States statecraft. As Human Rights Watch
+   (2005) has documented, for example, regimes in the Arab world have
+   been shuttling prisoners informally around since at least the
+   1990s. Similarly, there were earlier international human rights
+   cases around extraordinary rendition in South America involving
+   Uruguayan security officials apprehending suspects in Brazil and
+   Argentina and subsequently allegedly torturing them in Uruguay
+   (Satterthwaite, 2007, p1364).
 
 This is an old story of a spatial or scalar struggle over the
 territoriality of criminality and statecraft. The United States
@@ -268,35 +281,6 @@ private jet to El Paso, Texas, and put on trial in Los Angeles. The
 rendition happened without the cooperation or help of Mexican
 officials, despite an existing extradition treaty between the
 United States and Mexico.
-
-** And rendition is not a particular innovation of United States
-   statecraft. As HRW has documented, for example, regimes in the Arab
-   world have been shuttling prisoners informally since at least
-   **. Similarly, there have been international human rights cases
-   around rendition in South America. In one case, for example,
-   Uruguayan security officials apprehended as suspect in Brazil and
-   subsequently tortured him in Uruguay.**
-
-** arguments:
-formal territorial nationalist - rights and obligations attach to
-territory, with a receding ** once you move across the boundary of
-that territory; obligations of the state are formal and of a binary charactar
-
-human rights internationalist - rights are inherant in individuals,
-irrespective of territorial position; obligations of the state are
-informal and situational
-
-+---------------+----------+-----------+----------+
-|   argument    | rights   |obligations|legal     |
-|               |          |           |          |
-+---------------+----------+-----------+----------+
-| territorialist|territoal |           |          |
-+---------------+----------+-----------+----------+
-|               |          |           |          |
-+---------------+----------+-----------+----------+
-
-
-**
 
 The central legal question the case presented was whether the fact of
 the defendants’ extra-legal rendition was grounds for granting
@@ -387,32 +371,39 @@ After 9/11, the Bush Administration dramatically expanded the use
 of extraordinary rendition, as well as shifted greater relative
 attention to interrogation. They have also allegedly introduced a
 new kind of extraordinary rendition. Rather than send detainees to
-third-party states, they instead send them to spaces of de facto
+third-party states, they instead sent them to spaces of _de facto_
 United States control, but otherwise ambivalent sovereignty. The
 CIA-run prison in Afghanistan where Khalid El-Masri found himself
 was but one example of the in-between legal status of these
 rendition destinations. Guantánamo Bay is another. These spaces
 provided the benefits of sovereign authority and control, without
 the obligations of sovereignty either to domestic or to
-international law.
+international law.[^7]
 
-----------------------------------------------------------------------------------
-                   Type        Context       Jurisdictions     Relationship
------------------------        ----------  -----------------  -------------------------
-            extradition        modernity         A-B          direct, formal, 
-               		       			 	      transfer from one sovereign 
-							      jurisdiction to another; the 
-							      agent of transfer takes 
-							      sovereignty over legal subject
+[^7]: As I explain further below, this perspective relies on a
+controversial reading of international human rights law that focuses
+on one, obviously territorial, aspect of jurisdictional rights
+obligations, while ignoring others.
 
-   rendition to justice        War on Drugs      A-B          informal transfer of legal subject
-   	     		       	      		 	      from one 
-
-extraordinary rendition        War on Terror     A-B-C              direct
-                                                 A-B-?               ??
-----------------------------------------------------------------------------------
++---------------------+---------------+-------------------+--------------------+
+|Type                 |Context        |Jurisdictions      |Relationships       |
++=====================+===============+===================+====================+
+|extradition          |modernity      |A <-> B            |direct, formal      |
+|                     |               |                   |transfer from one   |
+|                     |               |                   |territorial         |
+|                     |               |                   |jurisdiction to     |
+|                     |               |                   |another             |
++---------------------+---------------+-------------------+--------------------+
+|rendition to justice |War on Drugs   |A -> B             |informal transfer of|
+|                     |               |                   |legal subject       |
++---------------------+---------------+-------------------+--------------------+
+|extraordinary        |War on Terror  |A -> B -> C/?      |                    |
+|rendition            |               |                   |                    |
+|                     |               |                   |                    |
++---------------------+---------------+-------------------+--------------------+
 
 Table:  Typology of Rendition.
+
 
 Extraordinary rendition is a very specific kind of rendition, then,
 involving the extra-legal transfer of a person by a state to the
@@ -420,9 +411,9 @@ jurisdiction of another state or quasi-stateless jurisdiction for the
 purpose of detention and interrogation. It is a way to suspend law for
 certain classes of subjects by moving their bodies across territorial
 boundaries. By using such tactics, the Bush Administration
-territorially bars these suspects from access to domestic legal
+territorially barred these suspects from access to domestic legal
 rights. By effecting such movement covertly, the Bush Administration
-also denies them access to the protections of international law. The
+also denied them access to the protections of international law. The
 active subject moving these bodies across this global jurisdictional
 chessboard is a shadow state; ideally completely invisible. The
 transfer, then, typically happens by--or least in collaboration
@@ -431,5 +422,5 @@ front-companies for state agencies such as the CIA, they nevertheless
 work though the networks of the formal economy and civil
 society. These are legally civilian employees, flying on legally
 civilian aircraft, through the nodal points of civilian airports,
-within a network of civilian airspace.
+within a network of civilian airspace (Grey, 2006).
 
