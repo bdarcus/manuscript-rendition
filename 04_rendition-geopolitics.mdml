@@ -385,22 +385,31 @@ controversial reading of international human rights law that focuses
 on one, obviously territorial, aspect of jurisdictional rights
 obligations, while ignoring others.
 
-+---------------------+---------------+-------------------+--------------------+
-|Type                 |Context        |Jurisdictions      |Relationships       |
-+=====================+===============+===================+====================+
-|extradition          |modernity      |A <-> B            |direct, formal      |
-|                     |               |                   |transfer from one   |
-|                     |               |                   |territorial         |
-|                     |               |                   |jurisdiction to     |
-|                     |               |                   |another             |
-+---------------------+---------------+-------------------+--------------------+
-|rendition to justice |War on Drugs   |A -> B             |informal transfer of|
-|                     |               |                   |legal subject       |
-+---------------------+---------------+-------------------+--------------------+
-|extraordinary        |War on Terror  |A -> B -> C/?      |                    |
-|rendition            |               |                   |                    |
-|                     |               |                   |                    |
-+---------------------+---------------+-------------------+--------------------+
++---------------+---------------+---------------------+-------------------+
+|Type           |Context        |Jurisdictional Paths |Transfer           |
+|               |               |                     |                   |
++===============+===============+=====================+===================+
+|extradition    |modernity      |A <-> B              |formal, direct     |
+|               |               |                     |                   |
+|               |               |                     |                   |
+|               |               |                     |                   |
+|               |               |                     |                   |
++---------------+---------------+---------------------+-------------------+
+|rendition to   |War on Drugs   |A -> B               |informal, direct   |
+|justice        |               |                     |                   |
+|               |               |                     |                   |
+|               |               |                     |                   |
+|               |               |                     |                   |
+|               |               |                     |                   |
++---------------+---------------+---------------------+-------------------+
+|extraordinary  |War on Terror  |A -> B -> C/?        |informal, indirect |
+|rendition      |               |                     |                   |
+|               |               |                     |                   |
+|               |               |                     |                   |
+|               |               |                     |                   |
+|               |               |                     |                   |
+|               |               |                     |                   |
++---------------+---------------+---------------------+-------------------+
 
 Table:  Typology of Rendition.
 
