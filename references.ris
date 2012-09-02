@@ -6,7 +6,7 @@ UR  - http://www.aclu.org/files/rendition/bagramsketch.pdf
 ER  - 
 
 TY  - JOUR
-ID  - 971
+ID  - sidaway:2010:island
 T1  - ‘One Island, One Team, One Mission’: Geopolitics, Sovereignty, ‘Race’ and Rendition
 JF  - Geopolitics
 M3  - 10.1080/14650040903501120
@@ -23,7 +23,7 @@ SN  - 1465-0045, 1557-3028
 ER  - 
 
 TY  - JOUR
-ID  - 981
+ID  - yoo:2003:transferring
 T1  - Transferring Terrorists
 JF  - Notre Dame Law Review
 A1  - Yoo,John
@@ -34,7 +34,7 @@ EP  - 1183
 ER  - 
 
 TY  - JOUR
-ID  - 1033
+ID  - yoo:2004:changing-laws
 T1  - The Changing Laws of War: Do We Need a New Legal Regime After September 11?: Transferring Terrorists
 JF  - Notre Dame L. Rev.
 A1  - Yoo,John
@@ -45,7 +45,7 @@ EP  - 2183
 ER  - 
 
 TY  - JOUR
-ID  - 801
+ID  - satterthwaite:2007:rendered
 T1  - Rendered Meaningless: Extraordinary  Rendition and the Rule of Law
 JF  - The George Washington Law Review
 A1  - Satterthwaite,Margaret L
@@ -57,7 +57,7 @@ EP  - 1420
 ER  - 
 
 TY  - RPRT
-ID  - 794
+ID  - amnestyintl:2006:below-radar
 T1  - Below the radar: Secret flights to torture and 'disappearance'
 PB  - Amnesty International
 PY  - 2006/04/04/
@@ -65,7 +65,7 @@ UR  - http://www.amnesty.org/en/library/info/AMR51/051/2006
 ER  - 
 
 TY  - NEWS
-ID  - 805
+ID  - shane:2005:cia-expanding
 T1  - C.I.A. Expanding Terror Battle Under Guise of Charter Flights
 JF  - The New York Times
 A1  - Shane,Scott
@@ -76,7 +76,7 @@ UR  - http://www.nytimes.com/2005/05/31/national/31planes.html
 ER  - 
 
 TY  - NEWS
-ID  - 817
+ID  - omar:2007:this-is-how
 T1  - This Is How They Kidnapped Me from Italy
 JF  - Chicago Tribune
 CY  - Chi
@@ -86,7 +86,7 @@ UR  - http://www.chicagotribune.com/news/nationworld/chi-cialetter-story,0,15480
 ER  - 
 
 TY  - RPRT
-ID  - 1178
+ID  - chrgj:2005
 T1  - Beyond Guantánamo: Transfers to Torture One Year After Rasul v. Bush
 CY  - New York
 PB  - Center for Human Rights and Global Justice, New York University School of Law
@@ -95,7 +95,7 @@ UR  - http://www.chrgj.org/docs/Beyond%20Guantanamo%20Report%20FINAL.pdf
 ER  - 
 
 TY  - CASE
-ID  - 680
+ID  - elmasri-v-tenet:2006
 T1  - El-Masri v. Tenet
 VL  - 437
 PY  - 2006///
@@ -104,7 +104,7 @@ EP  - 530
 ER  - 
 
 TY  - RPRT
-ID  - 1144
+ID  - hrw:2005:black-hole
 T1  - Black Hole: The Fate of Islamists Rendered to Egypt
 PB  - Human Rights Watch
 PY  - 2005/05/09/
@@ -112,7 +112,7 @@ UR  - http://www.hrw.org/en/reports/2005/05/09/black-hole-0
 ER  - 
 
 TY  - CASE
-ID  - 1111
+ID  - sale-v-haitian:1993
 T1  - Sale v. Haitian Centers Council, Inc.
 VL  - 509
 PY  - 1993///
@@ -126,12 +126,11 @@ T1  - Rendition Operations: Does U.S. Law Impose Any Restrictions?
 JF  - Loyala University Chicago Law Journal
 A1  - Pines,Daniel L.
 PY  - 2011///
-N2  - ies, the United States has seized individuals oversees and, outside any formal extradition process, brought such individuals to the United States to stand trial. A more recent wrinkle has been the transfer of such individuals to other countries for the purposes of prosecution or interrogation. Known as “rendition operations,” such transfers have often been criticized. Numerous commentators, asserting that many of these activities violate U.S. law, have called on the U.S. government to cease such operations and prosecute U.S. officials who engage in them. Nonetheless, a Special Task Force established by President Obama recently advocated the continued used of rendition operations, though with some policy changes. In order to effectuate such changes, and understand their impact, the Administration, as well as the critics and proponents of rendition operations, need to understand current U.S. law regarding renditions. Yet, despite all the focus, concern and criticism over rendition operations, no scholarly work to date has evaluated the entirety of U.S. law regarding such activities. This article proposes to do just that. It concludes that, upon close inspection of U.S. law, there are virtually no legal restrictions on these types of operations. Indeed, U.S. law does not even preclude the United States from rendering individuals to a third country in instances where the third country may subject the rendered individual to torture. The only restrictions that do exist under U.S. law preclude U.S. officials from themselves torturing or inflicting cruel and unusual punishment on individuals during rendition operations, or rendering individuals from a place of actual armed conflict or occupation – all of which prove to be narrow limitations indeed. Finally, few actual means exist to prosecute or sue U.S. officials engaged in rendition operations, due to limitations in civil and criminal statutory authority, as well as the courts’ continuous reluctance to consider such claims.
 UR  - http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1686766
 ER  - 
 
 TY  - JOUR
-ID  - 824
+ID  - walsh:2011:stories
 T1  - What stories we tell when we talk about torture: mapping the geopolitics of compassion and the post-Abu-Ghraib national family in 24: Redemption and Rendition
 JF  - Environment and Planning D: Society and Space
 M3  - 10.1068/d8109
@@ -139,14 +138,13 @@ A1  - Walsh,Rachel
 VL  - 29
 IS  - 1
 PY  - 2011///
-N2  - This paper constellates two post-Abu-Ghraib cinematic texts, John Cassar’s 24: Redemption (2008) and Gavin Hood’s Rendition (2007), and examines how they manage national anxieties of shame and complicity through geopolitically determined displays of compassion. Collectively, these films depict good white citizens of the world who reconcile the disillusioned viewer to the national family by feeling for racialized subjects in pain. Scrutinizing the familial aesthetics that structure both texts, I consider what normative conditions must first be met in order for the racialized subject to be included in the national family and, more expansively, the human family on which the prohibitions against torture are predicated. Following Judith Butler’s argument in Frames of War that ‘the human’ is a norm that can be enunciated or silenced, I map the selective admission of scenes of suffering into the ethico-political visual horizon of the US and argue that their admission or emergence assuages the shame of the post-Abu-Ghraib viewer while obfuscating the US’s war crimes.
-SP  - 150 – 168
-EP  - 150 – 168
+SP  - 150
+EP  - 168
 UR  - http://www.envplan.com/abstract.cgi?id=d8109
 ER  - 
 
 TY  - NEWS
-ID  - 1210
+ID  - slackman:2010:cables-show
 T1  - Cables Show U.S. Pressed Germany on C.I.A. Case
 JF  - The New York Times
 A1  - Slackman,Michael
@@ -156,8 +154,8 @@ UR  - http://www.nytimes.com/2010/12/09/world/europe/09wikileaks-elmasri.html
 ER  - 
 
 TY  - JOUR
-ID  - 1009
-T1  - The Law:" Extraordinary Rendition" and Presidential Fiat
+ID  - weaver:2006:law
+T1  - The Law: "Extraordinary Rendition" and Presidential Fiat
 JF  - Presidential Studies Quarterly
 A1  - Weaver,W. G
 A1  - Pallitto,R. M
@@ -170,7 +168,7 @@ SN  - 0360-4918
 ER  - 
 
 TY  - RPRT
-ID  - 867
+ID  - icrc:2007:treatment
 T1  - ICRC Report on the Treatment of Fourteen “High value Detainess” in CIA Custody
 CY  - Washington  D.C.
 PB  - International Committee of the Red Cross
@@ -178,7 +176,7 @@ PY  - 2007/02//
 ER  - 
 
 TY  - NEWS
-ID  - 1169
+ID  - llana:2009:mass-migration
 T1  - Amid Mass Migration To Cities, Bolivians Learn To Adapt To Urbanization
 JF  - Christian Science Monitor
 A1  - Llana,Sara Miller
@@ -189,7 +187,7 @@ UR  - http://www.csmonitor.com/2009/0212/p04s01-woam.html
 ER  - 
 
 TY  - NEWS
-ID  - 931
+ID  - pincus:2009:panetta-addresses
 T1  - Panetta Addresses Claims That Harsh Tactics Worked
 JF  - The Washington Post
 A1  - Pincus,Walter
@@ -201,49 +199,6 @@ KW  - Washington DC news headlines
 KW  - Washington Post politics news headlines
 SN  - 0740-5421
 UR  - http://www.washingtonpost.com/wp-dyn/content/article/2009/02/06/AR2009020603515.html
-ER  - 
-
-TY  - JOUR
-ID  - 1068
-T1  - Does Geography have a Nature? The Dilemmas of a Definition
-JF  - Annals of the Association of American Geographers
-A1  - Livingstone,David N.
-A1  - Entrikin,J. Nicholas
-VL  - 81
-IS  - 2
-PY  - 1991/06//
-SP  - 334
-EP  - 339
-SN  - 00045608
-UR  - http://www.jstor.org.proxy.lib.muohio.edu/stable/2563308
-ER  - 
-
-TY  - JOUR
-ID  - 908
-T1  - Histories of the present? The history and philosophy of geography, part III
-JF  - Progress in Human Geography
-A1  - Driver,Felix
-VL  - 20
-IS  - 1
-PY  - 1996///
-SP  - 100
-EP  - 109
-SN  - 03091325
-UR  - http://journals.ohiolink.edu/ejc/article.cgi?issn=03091325&issue=v20i0001&article=100_hotpthapogpi
-ER  - 
-
-TY  - JOUR
-ID  - 807
-T1  - Economic geography: the great half-century
-JF  - Cambridge Journal of Economics
-A1  - Scott,A. J.
-VL  - 24
-IS  - 4
-PY  - 2000///
-SP  - 483
-EP  - 504
-SN  - 0309166x
-UR  - http://journals.ohiolink.edu/ejc/article.cgi?issn=0309166x&issue=v24i0004&article=483_egtgh
 ER  - 
 
 TY  - GEN
@@ -261,11 +216,10 @@ UR  - http://video.google.com/videoplay?docid=3080182736973832540
 ER  - 
 
 TY  - VIDEO
-ID  - 1037
+ID  - aclu:2007:challenges
 T1  - ACLU Challenges Jeppesen Dataplan and CIA Rendition
 A2  - ACLU
 PY  - 2007/05/30/
-N2  - From aclu.org/rendition: The ACLU filed a federal lawsuit against Jeppesen Dataplan, Inc., a subsidiary of Boeing Company, on behalf of three victims of the U.S. government's unlawful   "extraordinary rendition" program. The lawsuit charges that Jeppesen knowingly provided direct flight services to the CIA that enabled the clandestine transportation of Binyam Mohamed, Abou Elkassim Britel and Ahmed Agiza to secret overseas locations where they were subjected to torture and other forms of cruel, inhuman and degrading treatment.
 KW  - ACLU
 KW  - Boeing
 KW  - Dataplan
@@ -281,7 +235,7 @@ UR  - http://www.youtube.com/watch?v=NdLwTu-L4Wo
 ER  - 
 
 TY  - ELEC
-ID  - 940
+ID  - esposito:2007:coming-in
 T1  - Coming in From the Cold: CIA Spy Calls Waterboarding Necessary But Torture
 JF  - ABC News
 A1  - Esposito,Richard
@@ -291,8 +245,8 @@ UR  - http://abcnews.go.com/print?id=3978231
 ER  - 
 
 TY  - NEWS
-ID  - 1010
-T1  - A legal danger zone for Blackwater
+ID  - knickerbocker:2007:danger-zone
+T1  - A Legal Danger Zone for Blackwater
 JF  - Christian Science Monitor
 A1  - Knickerbocker,Brad
 PY  - 2007/09/21/
@@ -300,7 +254,7 @@ UR  - http://www.csmonitor.com/2007/0921/p03s03-woiq.htm
 ER  - 
 
 TY  - BOOK
-ID  - 1103
+ID  - goldsmith:2007:terror
 T1  - The Terror Presidency: Law and Judgment Inside the Bush Administration
 CY  - New York
 A1  - Goldsmith,Jack L.
@@ -331,7 +285,7 @@ UR  - http://www.nytimes.com/2007/09/09/magazine/09rosen.html
 ER  - 
 
 TY  - MGZN
-ID  - 1133
+ID  - mayer:2007:black-sites
 T1  - The Black Sites: A Rare Look Inside the C.I.A.’s Secret Interrogation Program
 JF  - New Yorker
 A1  - Mayer,Jane
@@ -340,7 +294,7 @@ UR  - http://www.newyorker.com/reporting/2007/08/13/070813fa_fact_mayer
 ER  - 
 
 TY  - JOUR
-ID  - 1129
+ID  - agnew:2005:sovereignty
 T1  - Sovereignty Regimes: Territoriality and State Authority in Contemporary World Politics
 JF  - Annals of the Association of American Geographers
 M3  - 10.1111/j.1467-8306.2005.00468.x
@@ -353,7 +307,7 @@ EP  - 461
 ER  - 
 
 TY  - BOOK
-ID  - 1094
+ID  - agnew:1995:mastering-space
 T1  - Mastering Space: Hegemony, Territory and International Political Economy
 CY  - New York
 A1  - Agnew,John
@@ -363,7 +317,7 @@ PY  - 1995///
 ER  - 
 
 TY  - JOUR
-ID  - 731
+ID  - agnew:1994:territorial
 T1  - The Territorial Trap: The Geographical Assumptions of International Relations Theory
 JF  - Review of International Political Economy
 A1  - Agnew,John
@@ -375,7 +329,7 @@ EP  - 80
 ER  - 
 
 TY  - JOUR
-ID  - 933
+ID  - taylor:1994:container
 T1  - The State as Container
 JF  - Political Geography
 A1  - Taylor,Peter J
@@ -386,7 +340,7 @@ EP  - 162
 ER  - 
 
 TY  - JOUR
-ID  - 859
+ID  - forsberg:1996:beyond
 T1  - Beyond Sovereignty, Within Territoriality: Mapping the Space of Late-Modern (Geo) Politics
 JF  - Cooperation and Conflict,
 M3  - 10.1177/0010836796031004001
@@ -407,7 +361,6 @@ A1  - Taylor,Peter J
 VL  - 32
 IS  - 2
 PY  - 2007/04//
-N2  - This essay explores the contention that to understand contemporary globalization it is necessary to problematize city/state relations. Since the relation is unproblematized in modernity - cities are just parts of states - a transhistorical approach is adopted based upon Jacobs' identification of contrary `moral syndromes', commercial and guardian. The practices guided by these syndromes create different social spaces, spaces of flows and spaces of places respectively. Thus cities are interpreted as constellations of commercial practices, and states as constellations of guardian practices. Salient theories of cities and states are found in Jacobs' description of cities as complex entities that expand economic life and Scott's description of states' simplifying social relations in order to better control them. This abstract discussion is concretized through the specificities of modern cities and modern states. Six vignettes of city/state relations are sketched straddling the whole modern temporality. The conclusion rules out the popular `city-state' scenario as a globalization outcome.
 KW  - cities
 KW  - city/state relations
 KW  - city-states
@@ -418,7 +371,7 @@ EP  - 150
 ER  - 
 
 TY  - PCOMM
-ID  - 1046
+ID  - yoo:2001:possible
 T1  - Possible Habeas Jurisdiction over Aliens Held in Guantanamo Bay, Cuba
 A1  - Philbin,Patrick F,
 A1  - Yoo,John
@@ -426,7 +379,7 @@ PY  - 2001/12/28/
 ER  - 
 
 TY  - CASE
-ID  - 747
+ID  - johnson-v-eisentrager:1950
 T1  - Johnson v. Eisentrager
 VL  - 339
 PY  - 1950/06/05/
@@ -435,7 +388,7 @@ EP  - 763
 ER  - 
 
 TY  - MGZN
-ID  - 1099
+ID  - lane:2004:shanghaied
 T1  - Shanghaied
 JF  - Green Bag
 A1  - Lane,Charles
@@ -448,7 +401,7 @@ UR  - http://www.greenbag.org/Lane.pdf
 ER  - 
 
 TY  - MGZN
-ID  - 707
+ID  - lane:2004:habeas
 T1  - Habeas Schmabeas
 JF  - Slate Magazine
 A1  - Lane,Charles
@@ -481,7 +434,7 @@ UR  - http://www.nytimes.com/2007/06/24/world/africa/24verde.html?hp=&pagewanted
 ER  - 
 
 TY  - JOUR
-ID  - 975
+ID  - dickinson:1934:jurisdiction
 T1  - Jurisdiction Following Seizure or Arrest in Violation of International Law
 JF  - American Journal of International Law
 M3  - 10.2307/2190924
@@ -494,7 +447,7 @@ EP  - 245
 ER  - 
 
 TY  - JOUR
-ID  - 928
+ID  - caron:2004:decisions
 T1  - International Decisions - Sosa v. Alvarez-Machain  United States v. Alvarez-Machain - U.S. Supreme Court decision on the scope of the Alien Tort
 JF  - American Journal of International Law
 A1  - Caron,David
@@ -509,7 +462,7 @@ SN  - 0002-9300
 ER  - 
 
 TY  - JOUR
-ID  - 986
+ID  - gurule:1994:terrorism
 T1  - Terrorism, territorial sovereignty, and the forcible apprehension of international criminals abroad
 JF  - Hastings International and Comparative Law Review
 A1  - Gurulé,Jimmy
@@ -523,7 +476,7 @@ EP  - 495
 ER  - 
 
 TY  - JOUR
-ID  - 698
+ID  - miller:1994:extraterritorial
 T1  - United States v. Alvarez-Machain: Extraterritorial Abductions and the Rule of Law
 JF  - Pace International Law Review
 A1  - Miller,Joseph
@@ -539,7 +492,7 @@ UR  - http://digitalcommons.pace.edu/pilr/vol6/iss1/17
 ER  - 
 
 TY  - JOUR
-ID  - 967
+ID  - bush:1993:how-did-we
 T1  - How Did We Get Here? Foreign Abduction after Alvarez-Machain
 JF  - Stanford Law Review
 A1  - Bush,Jonathan A
@@ -553,7 +506,7 @@ SN  - 00389765
 ER  - 
 
 TY  - CASE
-ID  - 1093
+ID  - stevens:1992:machain
 T1  - United States, Petitioner v. Humberto Alvarez Machain
 A1  - Stevens
 PY  - 1992/06/15/
@@ -694,7 +647,6 @@ A1  - Pozen,David E.
 VL  - 115
 IS  - 3
 PY  - 2005///
-N2  - This Note documents the evolution of the "mosaic theory" in Freedom of Information Act (FOIA) national security law and highlights its centrality in the post-9/11 landscape of information control. After years of doctrinal stasis and practical anonymity, federal agencies began asserting the theory more aggressively after 9/11, thereby testing the limits of executive secrecy and of judicial deference. Though essentially valid, the mosaic theory has been applied in ways that are unfalsifiable, in tension with the text and purpose of FOIA, and susceptible to abuse and overbreadth. This Note therefore argues, against precedent, for greater judicial scrutiny of mosaic theory claims.
 KW  - intelligence
 KW  - law
 KW  - mosaic theory
@@ -723,7 +675,6 @@ A1  - Mitchell,Don
 VL  - 24
 IS  - 1
 PY  - 2005///
-N2  - Recent United States Supreme Court decisions concerning protest outside health clinics that provide abortions, coupled with a new wave of “aggressive panhandling” ordinances being adopted by American cities, indicate that Courts and lawmakers are creating a new model of citizenship. This model is marked by a radical individualism and extreme libertarianism based on transformed property relations. Courts are finding that individuals have an innate “right to be left alone” in public space – a strong departure from early jurisprudence which restricted that right to be left alone to private property. These recent decisions and laws suggest the development of a model of citizenship quite at odds with the cosmopolitan, associational citizenship theorized and promoted by many political theorists.
 KW  - citizenship
 KW  - legal geography
 KW  - protest
