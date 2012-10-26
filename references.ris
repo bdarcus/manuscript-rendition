@@ -1,3 +1,98 @@
+TY  - BOOK
+ID  - blomley:2004:unsettling
+T1  - Unsettling the City: Urban Land and the Politics of Property
+CY  - New York
+A1  - Blomley,Nicholas
+PB  - Routledge
+PY  - 2004///
+KW  - gentrification
+KW  - law
+KW  - property
+SN  - 0415933161
+ER  - 
+
+TY  - BOOK
+ID  - brown:2006:aversion
+T1  - Regulating Aversion: Tolerance in the Age of Identity and Empire
+CY  - Princeton  N.J.
+A1  - Brown,Wendy
+PB  - Princeton University Press
+PY  - 2006///
+KW  - citizenship
+KW  - governmentality
+KW  - law
+KW  - state
+KW  - tolerance
+SN  - 9780691126548
+ER  - 
+
+TY  - BOOK
+ID  - butler:2006:precarious
+T1  - Precarious Life: The Power of Mourning and Violence
+CY  - London
+A1  - Butler,Judith
+PB  - Verso
+PY  - 2006///
+SN  - 1844675440
+ER  - 
+
+TY  - BOOK
+ID  - darcus:2006:boundaries
+T1  - Boundaries of Dissent: Protest and State Power in the Media Age
+CY  - New York
+A1  - D'Arcus,Bruce
+PB  - Routledge
+PY  - 2006///
+KW  - law
+KW  - media
+KW  - protest
+KW  - public space
+SN  - 041594872X
+ER  - 
+
+TY  - JOUR
+ID  - ford:1999:territory
+T1  - Law’s Territory (A History of Jurisdiction)
+JF  - Michigan Law Review
+M3  - 10.2307/1290376
+A1  - Ford,Richard
+VL  - 97
+IS  - 4
+PY  - 1999///
+SP  - 843
+EP  - 930
+SN  - 0026-2234
+ER  - 
+
+TY  - BOOK
+ID  - isin:2002:being
+T1  - Being Political: Genealogies of Citizenship
+CY  - Minneapolis
+A1  - Isin,Engin F.
+PB  - University of Minnesota Press
+PY  - 2002/01//
+SN  - 0816632723
+ER  - 
+
+TY  - JOUR
+ID  - mitchell:1995:park
+T1  - The End of Public Space? People's Park, Definitions of the Public, and Democracy
+A1  - Mitchell,Don
+PY  - 1995/03//
+SP  - 108
+EP  - 133
+SN  - 00045608
+ER  - 
+
+TY  - BOOK
+ID  - schmitt:1985:theology
+T1  - Political theology: four chapters on the concept of sovereignty
+A1  - Schmitt,Carl
+PB  - MIT Press
+PY  - 1985///1922
+ER  - 
+
+
 TY  - GEN
 ID  - 1146
 T1  - Detention Cell: El Masri Sketch
@@ -551,7 +646,7 @@ SN  - 1403981922
 ER  - 
 
 TY  - RPRT
-ID  - 671
+ID  - homeland-security:2002
 T1  - National Strategy for Homeland Security
 PB  - United States Office of Homeland Security
 PY  - 2002/07//
@@ -559,7 +654,7 @@ UR  - http://www.whitehouse.gov/homeland/book/nat_strat_hls.pdf
 ER  - 
 
 TY  - ELEC
-ID  - 716
+ID  - cheney:2006:agenda
 T1  - Remarks by the Vice President on the 2006 Agenda
 A1  - Cheney,Richard B.
 PY  - 2006/02/09/
@@ -609,7 +704,7 @@ UR  - http://www.nytimes.com/reuters/news/news-usa-cia-kidnapping.html
 ER  - 
 
 TY  - CHAP
-ID  - 1071
+ID  - marston:2004:citizens
 T1  - Citizens and the State: Citizenship Formations in Space and Time
 T2  - Spaces of Democracy: Geographical Perspectives on Citizenship, Participation and Representation
 CY  - Thousand Oaks
@@ -640,7 +735,7 @@ SN  - 0026-2234
 ER  - 
 
 TY  - JOUR
-ID  - 925
+ID  - pozen:2005:mosaic
 T1  - The Mosaic Theory, National Security, and the Freedom of Information Act
 JF  - The Yale Law Journal
 A1  - Pozen,David E.
@@ -657,7 +752,7 @@ UR  - http://yalelawjournal.org/115/3/628_david_e_pozen.html
 ER  - 
 
 TY  - BOOK
-ID  - 1166
+ID  - agamben:2005:exception
 T1  - State of Exception
 CY  - Chicago
 A1  - Agamben,Giorgio
@@ -667,7 +762,22 @@ SN  - 0226009254
 ER  - 
 
 TY  - JOUR
-ID  - 789
+ID  - mitchell:1997:annihilation
+T1  - The Annihilation of Space by Law: The Roots and Implications of Anti-Homeless Laws in the United States
+JF  - Antipode
+M3  - 10.1111/1467-8330.00048
+A1  - Mitchell,Don
+VL  - 29
+IS  - 3
+PY  - 1997///
+SP  - 303
+EP  - 335
+SN  - 1467-8330
+UR  - http://onlinelibrary.wiley.com/doi/10.1111/1467-8330.00048/abstract
+ER  - 
+
+TY  - JOUR
+ID  - mitchell:2005:suv
 T1  - The S.U.V. Model of Citizenship: Floating Bubbles, Buffer Zones, and the Rise of the “purely atomic’ Individual
 JF  - Political Geography
 M3  - 10.1016/j.polgeo.2004.06.003
@@ -753,7 +863,7 @@ SN  - 0066-4812
 ER  - 
 
 TY  - JOUR
-ID  - 897
+ID  - gregory:2006:flag
 T1  - The Black Flag: Guantánamo Bay and the Space of Exception
 JF  - Geografiska Annaler, Series B: Human Geography
 A1  - Gregory,Derek
@@ -776,7 +886,7 @@ SN  - 9780415951463
 ER  - 
 
 TY  - GEN
-ID  - 957
+ID  - el-masri:2005
 T1  - Statement
 A1  - El-Masri,Khaled
 PB  - American Civil Liberties Union
@@ -786,7 +896,7 @@ UR  - http://www.aclu.org/safefree/extraordinaryrendition/22201res20051206.html
 ER  - 
 
 TY  - BOOK
-ID  - 838
+ID  - margulies:2006:abuse
 T1  - Guantánamo and the Abuse of Presidential Power
 CY  - New York
 A1  - Margulies,Joseph
@@ -850,7 +960,7 @@ UR  - http://journals.ohiolink.edu/ejc/article.cgi?issn=09626298&issue=v25i0003&
 ER  - 
 
 TY  - JOUR
-ID  - 994
+ID  - painter:2006:prosaic
 T1  - Prosaic Geographies of Stateness
 JF  - Political Geography
 A1  - Painter,Joe
@@ -913,7 +1023,7 @@ SN  - 9780312360238
 ER  - 
 
 TY  - BOOK
-ID  - 974
+ID  - kohn:2004:brave
 T1  - Brave New Neighborhoods
 CY  - New York
 A1  - Kohn,Margaret
